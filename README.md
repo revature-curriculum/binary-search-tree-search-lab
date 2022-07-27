@@ -66,9 +66,9 @@ When we delete a node from the BST, then there are three possibilities as discus
 
 # Instructions:
 
-- Implement the method for deleting a value from the Binary Search Tree.
-- The implementation is recursive; the method deleteKey simply calls deleteRecursive.
-- Place the recursive code in deleteRecursive.
-- Alternately, you may choose to implement deleteKey iteratively by deleting the deleteRecursive method and placing iterative code in the deleteKey method.
-- Also, an inOrder method has been provided to print out the tree "in-order" as described above, for debugging/testing purposes.
+- Implement the method for searching for a value in the Binary Search Tree.
+- The implementation is recursive; the method search simply calls searchRecursive.
+- Place the recursive code in searchRecursive.
+- Alternately, you may choose to implement search iteratively by deleting the searchRecursive method and placing iterative code in the search method.
+- Also, an inorder method has been provided to print out the tree "in-order" as described above, for debugging/testing purposes.
 - Test cases are provided.
